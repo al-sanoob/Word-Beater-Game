@@ -1,0 +1,21 @@
+body{
+    background-color: #264653;
+    color: rgb(248, 245, 245);
+}
+.top{
+    background-color: #2a9d8f;
+    height: 70px;
+}
+#word-input{
+    background-color: #e9c46a;
+    border-radius: 15px;
+    height: 55px;
+    color: rgb(255, 255, 255);
+}
+.card{
+    background-color: #2a9d8f;
+    height: 110px;
+    font-style: italic;
+    
+    border-radius: 5px;
+}
